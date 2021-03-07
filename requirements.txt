@@ -15,5 +15,3 @@ jupyter
 matplotlib
 seaborn
 numpy
-sklearn
-joblib
